@@ -1,0 +1,22 @@
+span {
+	display: inline;
+}
+a {
+	display: inline;
+}
+h1 {
+	display: none;
+}
+h2 {
+	visibility: hidden;
+}
+.ex1 {
+	width: 700px;
+	margin: auto;
+	border: 3px solid #73ad21;
+}
+.ex2 {
+	max-width: 700px;
+	margin: auto;
+	border: 3px solid #73ad21;
+}
